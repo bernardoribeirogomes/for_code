@@ -16,18 +16,6 @@ A proposta é simples: o usuário informa o orçamento disponível, o destino de
 
 ---
 
-## Como executar o programa
-
-No terminal, dentro da pasta onde está o arquivo, execute:
-
-```bash
-prompt> python3 calculadora_viagem_py.py
-```
-
-O programa fará perguntas ao usuário e, ao final, retornará um resumo da viagem.
-
----
-
 ## Como o programa funciona
 
 O programa solicita as seguintes informações:
