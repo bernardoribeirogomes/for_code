@@ -289,3 +289,6 @@ Esse cuidado é muito importante em programas que usam `input()`, porque tudo qu
 
 O desafio da Semana 1 foi importante para praticar conceitos fundamentais de Python, como entrada de dados, conversão de tipos, operações matemáticas, condicionais, validação e formatação de saída.
 
+Além disso, o programa mostra como a lógica de programação pode ser aplicada a situações reais, como verificar se uma viagem cabe ou não dentro de um orçamento.
+
+
